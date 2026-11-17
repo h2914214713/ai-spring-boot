@@ -1,0 +1,10 @@
+server:
+  port: 8080
+
+spring:
+  application:
+    name: ai-spring-boot
+
+logging:
+  level:
+    com.example.demo: info
